@@ -153,6 +153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
   panel: {fileID: 923550363}
+  lockMove: 0
 --- !u!65 &9870720
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2977,6 +2978,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
   panel: {fileID: 1763439921}
+  lockMove: 1
 --- !u!1 &515924552
 GameObject:
   m_ObjectHideFlags: 0
@@ -6481,6 +6483,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
   panel: {fileID: 283408157}
+  lockMove: 0
 --- !u!65 &1088180840
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7383,6 +7386,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
   panel: {fileID: 1148998258}
+  lockMove: 0
 --- !u!65 &1222271508
 BoxCollider:
   m_ObjectHideFlags: 0
