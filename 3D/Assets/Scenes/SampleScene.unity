@@ -294,7 +294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
-  panel: {fileID: 0}
+  panel: {fileID: 525004477}
   lockMove: 0
 --- !u!65 &9870720
 BoxCollider:
@@ -4845,7 +4845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
-  panel: {fileID: 0}
+  panel: {fileID: 671524456}
   lockMove: 1
 --- !u!114 &475426086
 MonoBehaviour:
@@ -11271,7 +11271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
-  panel: {fileID: 0}
+  panel: {fileID: 418753759}
   lockMove: 0
 --- !u!65 &1088180840
 BoxCollider:
@@ -13047,7 +13047,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractZone
   prompt: {fileID: 515924552}
-  panel: {fileID: 0}
+  panel: {fileID: 1730478939}
   lockMove: 0
 --- !u!65 &1222271508
 BoxCollider:
